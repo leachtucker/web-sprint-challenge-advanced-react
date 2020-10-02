@@ -14,6 +14,42 @@ body {
   align-items: center;
 }
 
+.lightmode {
+  background-color: whitesmoke;
+  color: #333;
+}
+
+.lightmode h1 {
+  color: #333;
+}
+
+.lightmode .plant-details {
+   color: #333;
+}
+
+.lightmode h2 {
+  color: #333;
+}
+
+.lightmode .total {
+  color: #333;
+}
+
+.lightmode form {
+  background-color: whitesmoke;
+}
+
+.lightmode label {
+  color: #333;
+}
+
+.darkmode-btn {
+  font-size: .8rem;
+  padding: 2% 2%;
+  background-color: #CCFF00;
+  color: black;
+}
+
 h1 {
   font-weight: 100;
   color: white;
